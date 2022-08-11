@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Elif
 - 👀 I’m interested in software, math and science.
-- 🌱 I’m currently learning C# and MSQL
+- 🌱 I’m currently learning JAVA and PostgreSQL
 
 
 
